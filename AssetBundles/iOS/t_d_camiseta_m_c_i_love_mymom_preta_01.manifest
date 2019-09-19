@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1360061333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7f396d15418d0ad5b8d9ac042c08637
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_i_love_MyMom_Preta_01.png
+Dependencies: []

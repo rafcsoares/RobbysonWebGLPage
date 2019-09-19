@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 666074405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a681dfb8724bb86c8eace2f1a7b89fb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Items/Camisetas/Fbx/Materials/Mat_Camisa_Regata.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_n_camiseta_regata_01

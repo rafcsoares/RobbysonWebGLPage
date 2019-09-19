@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4060561373
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9fe1aadb726304130d09d78007d3e12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Corpo/Fbx/Materials/Mat_Corpo_01.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/t_n_avatar_corpo_fl

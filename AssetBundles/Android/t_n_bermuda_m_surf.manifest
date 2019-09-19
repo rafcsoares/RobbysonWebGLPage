@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1059168518
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e527b884cad1f17ea19fa2ab85b4e44
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcas/Fbx/Textures/T_N_Bermuda_M_surf.png
+Dependencies: []

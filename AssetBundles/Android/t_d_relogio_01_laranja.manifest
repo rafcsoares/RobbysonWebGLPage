@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1441651963
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e21c5968887aed948cd30b505d4948bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Acessorios/Fbx/Textures/T_D_Relogio_01_laranja.png
+Dependencies: []

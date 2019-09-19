@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1821990379
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11b5012b0e11ed0219d5ab3748b73009
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b41a302d693d9323b91afc8c5a1da6e9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6b872b02e3a96442ab2878bab4452d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 671ed5599f0891c4f8d339c0134ac31b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Bodies/BDatas/Editor/Resources/Human_F_BData.asset
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/human_f_characterbody

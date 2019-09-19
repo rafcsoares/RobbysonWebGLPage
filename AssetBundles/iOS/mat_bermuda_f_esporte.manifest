@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1396479023
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04aeb421e59c4781705209f361084155
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcas/Fbx/Materials/Mat_Bermuda_F_Esporte.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/t_d_bermuda_f_esporte_preto_rosa
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/t_n_bermuda_f_esporte_low

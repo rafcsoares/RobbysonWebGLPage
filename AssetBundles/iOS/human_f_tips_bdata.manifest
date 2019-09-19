@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2726957105
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4462ce3ad418c4959dbdab37da8fa5b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 338cb255aca70834e5c453669ab68a81
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6b872b02e3a96442ab2878bab4452d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 671ed5599f0891c4f8d339c0134ac31b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Bodies/BDatas/Editor/Resources/Human_F_Tips_BData.asset
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/human_f_characterbody_tips

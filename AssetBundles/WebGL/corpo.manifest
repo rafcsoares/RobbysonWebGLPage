@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 2772421348
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a0a0983ddcce249d05e09e07b7659e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b723b0c19d956a9fb2fa4327dd34c4f6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Items/Vestidos/Fbx/Vestido_Tomara_que_caia_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Calcas/Fbx/Bermuda_F_Shorte_saia.fbx
+- Assets/Robbyson/AssetFiles/Items/Calcas/Fbx/Blender/Short_01.dae
+- Assets/Robbyson/AssetFiles/Items/Calcas/Fbx/Bermuda_M_esporte.fbx
+- Assets/Robbyson/AssetFiles/Items/Camisetas/Fbx/Camiseta_M_Regata_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Calcas/Fbx/Bermuda_F_jeans.fbx
+- Assets/Robbyson/AssetFiles/Items/Vestidos/Fbx/Vestido_gravida_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Camisetas/Fbx/Camiseta_F_Manga_Longa_Polo_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Camisetas/Fbx/Camiseta_M_Manga_Curta_Polo_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Vestidos/Fbx/Vestido_Comum_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Camisetas/Fbx/Camiseta_F_Manga_Longa_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Camisetas/Fbx/Camiseta_F_Regata_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Calcas/Fbx/Bermuda_F_esporte.fbx
+- Assets/Robbyson/AssetFiles/Items/Camisetas/Fbx/Camiseta_M_Manga_Curta_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Calcas/Fbx/Bermuda_F_lag.fbx
+- Assets/Robbyson/AssetFiles/Items/Calcas/Fbx/Bermuda_M_jeans.fbx
+- Assets/Robbyson/AssetFiles/Items/Kits/Fbx/Kit_Kimono_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Vestidos/Fbx/Kit_Feminino_junino_vestido.fbx
+- Assets/Robbyson/AssetFiles/Items/Camisetas/Fbx/Camiseta_F_Manga_Curta_Polo_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Vestidos/Fbx/Vestido_Longo_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Camisetas/Fbx/Camiseta_M_Manga_Longa_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Camisetas/Fbx/Camiseta_M_Botao_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Calcas/Fbx/Bermuda_M_algodao.fbx
+- Assets/Robbyson/AssetFiles/Items/Camisetas/Fbx/Camiseta_M_Manga_Longa_Polo_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Calcas/Fbx/Bermuda_M_surf.fbx
+Dependencies: []

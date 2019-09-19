@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 390290092
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9e973da45b7da1525b8de97031ac8c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46daa0ab816e68f527f38fb18aec3007
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Placas/CustomAnimators/Placa_DeUmaDica_Controller.controller
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/placa_deumadica_instart
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/placa_deumadica_outend
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/placa_deumadica_mainiddle
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/placa_deumadica_in
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/placa_deumadica_out
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/placa_deumadica_iddle
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/deumadica_in

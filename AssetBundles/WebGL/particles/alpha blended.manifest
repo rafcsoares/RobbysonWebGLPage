@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1751423587
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2257064a53428a369e9b226021e9ad9c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7e9ee104d6bb707fb2602b751e6f78b1
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Particles/Shaders/Resources/Particle Alpha
+  Blend.shader
+Dependencies: []

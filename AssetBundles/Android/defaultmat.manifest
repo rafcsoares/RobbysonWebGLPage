@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1856342801
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f963fa8ac316338f85265987d7ef6242
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51a16e16d5113854a16091e54ae5bb0d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Cabelos/Fbx/Materials/defaultMat.mat
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2003268421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7b466086317514c455c5e0304dc167b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Items/Calcas/Fbx/Materials/Mat_Bermuda_M_algodao.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_n_bermuda_m_algodao
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_d_bermuda_m_algodao_bege

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3711135669
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3340d344ffd9e32848c1a5c6b3a044b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Textures/T_D_Relogio_01_Vermelho.png
+Dependencies: []

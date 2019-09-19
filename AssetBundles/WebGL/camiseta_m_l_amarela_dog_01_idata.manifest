@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 768753513
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ae89932d75f3b69f1d01cf7a9aede25
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03c31b2ce74a090f11703cbe27900fea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49719ed0c0198db4db46c602432b5b41, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/IData/Editor/Resources/Camiseta_M_L_amarela_dog_01_IData.asset
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/mat_corpo_01
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/corpo
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/mat_camisa_longa
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_d_camiseta_m_l_amarela_dog_01

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1341248715
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2f52c672e4b06df9a1b0f58ebbee74d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5f15d19de9123028808577dcd63ae0df
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_troca_Item_acessorio_camiseta_01.fbx
+Dependencies: []

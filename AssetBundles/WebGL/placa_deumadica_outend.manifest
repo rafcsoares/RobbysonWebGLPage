@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1568379916
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8923dde15553837a791b9cc3873f1e27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 43a4b7bca5993049df5a20320e1ab708
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Placas/CustomAnimators/Animations/Placa_DeUmaDica_OutEnd.anim
+Dependencies: []

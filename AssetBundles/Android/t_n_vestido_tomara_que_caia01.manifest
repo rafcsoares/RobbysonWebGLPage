@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2974681564
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 386405b8be9e7ee3b961689838c9e009
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Vestidos/Fbx/Textures/T_N_Vestido_Tomara_que_caia01.png
+Dependencies: []

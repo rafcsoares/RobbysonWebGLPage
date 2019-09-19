@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1523388652
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f98d0c8bd68acda825aeecf080d51e40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7df314db2676ef0279eaafe333d9291c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49719ed0c0198db4db46c602432b5b41, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcados/IData/Editor/Resources/Sandalha_Salto_01_RGB_IData.asset
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/t_d_sandalha_salto01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/mat_sandalha_salto_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/mat_corpo_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/body_part

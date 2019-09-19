@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 123293434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bcc38c04a9a6fbaa964f3e3ea496a5f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 35e203ab0bffd955411faf39774978c0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49719ed0c0198db4db46c602432b5b41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8aef3d5a73bf6e14eaa53fa18202ca8d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Kits/IData/Editor/Resources/Kit_Carnaval_F_2017_01_IData.asset
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/t_d_feather_alpha
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/t_d_kit_carnaval_2017_porta_bandeira
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/kit_carnaval_f_2017
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/mat_carnaval_f_2017
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/mat_cabelo_f
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/mat_penas_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/mat_corpo_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/kit_carnaval_exposedcontroller

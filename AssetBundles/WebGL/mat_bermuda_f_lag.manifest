@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 571790807
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c9d37fb1c7cac458c474d98a43ff2d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Items/Calcas/Fbx/Materials/Mat_Bermuda_F_lag.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_n_bermuda_f_lag
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_d_bermuda_f_lag_rosa

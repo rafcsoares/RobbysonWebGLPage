@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 911999581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c66775f3f5ad584c3dd4c4d29ef9ed81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6cce62a4d4d67c4e2ef1c17bcee1d794
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Chapeus/Fbx/Chapeu_palha_Feminino.fbx
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Chapeus/Fbx/Touca_01.fbx
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Chapeus/Fbx/Bone_01.fbx
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Chapeus/Fbx/Chapeu_01.fbx
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Chapeus/Fbx/Bone_02_Masculino.fbx
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Chapeus/Fbx/Chapeu_02.fbx
+Dependencies: []

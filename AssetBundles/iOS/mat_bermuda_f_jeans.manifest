@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 705297748
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5fc270517e08faf9b357f6a1e97d99de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcas/Fbx/Materials/Mat_Bermuda_F_jeans.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/t_d_bermuda_f_jeans_azul
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/t_n_bermuda_f_jeans

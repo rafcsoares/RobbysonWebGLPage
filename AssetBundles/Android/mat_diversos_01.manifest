@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4028297209
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e8a100a4387e773e31dbe67335a8017
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Acessorios/Fbx/Materials/Mat_Diversos_01.mat
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/n_kit_inicial_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/d_kit_inicial_01

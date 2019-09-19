@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | AeC_Robbyson_WebGL</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>  
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/Build_Production.json", {onProgress: UnityProgress});
+    </script>
+  </head>
+  <body>
+    <div id="webglContainer" class="webgl-content">
+      <div id="gameContainer" style="width: 800px; height: 600px"></div>
+      <div class="footer">
+        <div class="webgl-logo"></div>
+        <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
+        <div class="title">AeC_Robbyson_WebGL</div>
+      </div>
+    </div>
+	<div id="parent">
+		<div class="child">___________________________</div>
+		<div class="child">Unity Scenes (Legacy)</div>
+		<div class="child"><button onclick="UnityRpcUtils.loadScene('Kite')">Kite</button></div>
+		<div class="child"><button onclick="UnityRpcUtils.loadScene('AvatarShop')">Shop</button></div>
+		<div class="child"><button onclick="UnityRpcUtils.loadScene('Photo')">Photo</button></div>
+		<div class="child">___________________________</div>
+		<div class="child">Unity Scenes (New)</div>
+		<div class="child"><button onclick="UnityRpcUtils.loadScene('PhotoShopNoUI')">PhotoShopNoUI</button></div>
+		<div class="child"><button onclick="UnityRpcUtils.loadScene('OtherProfileNoUI')">OtherProfileNoUI</button></div>
+		<div class="child">___________________________</div>
+		<div class="child">Inventory Functions</div>
+		<div class="child"><button onclick="UnityRpcUtils.getAllItemIdsWithSlotKey('Torso', callbackFunc)">Get All Item Ids in Torso</button></div>
+		<div class="child"><button onclick="UnityRpcUtils.getAllSlotsInfo(callbackFunc)">Get All Slots Info</button></div>
+		<div class="child"><button onclick="UnityRpcUtils.getBodyInfo(callbackFunc)">Get Body Info</button></div>
+		<div class="child"><button onclick="UnityRpcUtils.getEquippedItemsInfo(callbackFunc)">Get Equipped Items Info</button></div>
+		<div class="child">___________________________</div>
+		<div class="child">Inventory Set Functions</div>
+		<div class="child"><button onclick="UnityRpcUtils.equipItem('Camiseta_Junina_03_IData')">Equip Item (Camiseta_Junina_03_IData)</button></div>
+		<div class="child"><button onclick="UnityRpcUtils.unequipItem('Camiseta_Junina_03_IData')">Unequip Item (Camiseta_Junina_03_IData)</button></div>
+		<div class="child"><button onclick="UnityRpcUtils.unequipItemInSlot('Torso')">Unequip Item in Slot (Torso)</button></div>
+		<div class="child"><button onclick="UnityRpcUtils.setItemColor('Camiseta_Junina_03_IData', '#ffff00')">Set Item Color(Camiseta_Junina_03_IData)</button></div>
+		<div class="child"><button onclick="UnityRpcUtils.setSlotColor('Torso', '#ffff00')">Set Slot Color(Torso)</button></div>
+		<div class="child"><button onclick="UnityRpcUtils.setBodyColor('#ffff00')">Set Body Color</button></div>
+		<div class="child">___________________________</div>
+		<div class="child">Screenshot</div>
+		<div class="child">Stencil: <button onclick="UnityRpcUtils.showScreenshotStencil()">Show</button><button onclick="UnityRpcUtils.hideScreenshotStencil()">Hide</button></div>
+		<div class="child">Capture: <button onclick="UnityRpcUtils.takeScreenshot()">Take ScreenShot</button><button onclick="UnityRpcUtils.takeScreenshotInPose()">Take ScreenShot In Pose</button></div>
+		<div class="child">Save & Capture: <button onclick="UnityRpcUtils.saveAndTakeScreenshot()">Save & Take ScreenShot</button><button onclick="UnityRpcUtils.saveAndTakeScreenshotInPose()">Save & Take ScreenShot In Pose</button></div>
+		<div class="child">___________________________</div>
+		<div class="child">Localization</div>
+		<div class="child">Language: <button onclick="UnityRpcUtils.setLocalization('PT-BR', null)">PT-BR</button> <button onclick="UnityRpcUtils.setLocalization('EN-US', null)">EN-US</button></div>
+		<div class="child">___________________________</div>
+		<div class="child">Message</div>
+		<div class="child"><button onclick="UnityRpcUtils.showAvatar(2)">Show Avatar</button> </div>
+		<div class="child"><button onclick="UnityRpcUtils.showMessage('Teste')">Send Robbyson Message</button>  <button onclick="UnityRpcUtils.showMessage('{&quot;m_avatarProfileId&quot;:2,&quot;m_complexMessages&quot;:[{&quot;m_emotion&quot;:0, &quot;m_message&quot;:&quot;Depois&quot;, &quot;m_priority&quot;:-1}, {&quot;m_emotion&quot;:3, &quot;m_message&quot;:&quot;Antes&quot;, &quot;m_priority&quot;:1}]}')">Send Tips Message</button></div>
+		<div class="child">___________________________</div>
+		<div class="child">Kite (Legacy)</div>
+		<div class="child">Parallax BG: <button onclick="UnityRpcLegacyUtils.sendParallaxLevel(0)">0</button> <button onclick="UnityRpcLegacyUtils.sendParallaxLevel(1)">1</button> <button onclick="UnityRpcLegacyUtils.sendParallaxLevel(2)">2</button> <button onclick="UnityRpcLegacyUtils.sendParallaxLevel(3)">3</button></div>
+		<div class="child">___________________________</div>
+		<div class="child">Debug</div>
+		<div class="child">Memory: <button onclick="UnityIntegration.showMemoryStats()">Show Memory Informations</button></div>
+		<div class="child">Show FPS: <button onclick="UnityRpcUtils.showFps(1)">Enabled</button> <button onclick="UnityRpcUtils.showFps(0)">Disabled</button></div>
+		<div class="child">Quality Level: <button onclick="UnityRpcUtils.setQualityLevel(0)">1</button> <button onclick="UnityRpcUtils.setQualityLevel(1)">2</button> <button onclick="UnityRpcUtils.setQualityLevel(2)">3</button> <button onclick="UnityRpcUtils.setQualityLevel(3)">4</button> <button onclick="UnityRpcUtils.setQualityLevel(4)">5</button> <button onclick="UnityRpcUtils.setQualityLevel(5)">6</button></div>
+		
+	</div>
+  </body>
+  <script src="TemplateData/FakeUnityIntegration.js"></script>
+  <script src="TemplateData/UnityRpcUtils.js"></script>
+  <script src="TemplateData/UnityRpcLegacyUtils.js"></script>
+  <script>
+	  var callbackFunc = function(obj)
+		{
+			v_alertMsg = JSON.stringify(obj, null, 2);
+			if(v_alertMsg !== "")
+			{
+				console.log(v_alertMsg);
+				alert(v_alertMsg);
+			}
+		};
+    </script>
+</html>

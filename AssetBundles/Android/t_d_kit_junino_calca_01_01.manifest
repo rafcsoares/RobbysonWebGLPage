@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1535723618
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81088592f9a8be576124cc260cb30655
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcas/Fbx/Textures/T_D_Kit_Junino_calca_01_01.png
+Dependencies: []

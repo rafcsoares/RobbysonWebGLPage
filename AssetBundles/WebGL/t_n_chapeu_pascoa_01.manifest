@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 425322127
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 260fe87e9d9b83d1741a43bbe963894a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Textures/T_N_Chapeu_Pascoa_01.png
+Dependencies: []

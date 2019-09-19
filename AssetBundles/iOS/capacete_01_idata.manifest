@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1541063234
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac22f4a705823d00ba760ef4687adf64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7df314db2676ef0279eaafe333d9291c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49719ed0c0198db4db46c602432b5b41, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Chapeus/IData/Editor/Resources/Capacete_01_IData.asset
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/d_kit_inicial_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/mat_diversos_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/mesh_capacete_01

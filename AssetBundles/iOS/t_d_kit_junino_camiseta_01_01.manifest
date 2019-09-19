@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2314380161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0babd41680532830e1d4a911d37ea28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Camisetas/Fbx/Textures/T_D_Kit_Junino_camiseta_01_01.png
+Dependencies: []

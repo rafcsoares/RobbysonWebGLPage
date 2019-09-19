@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2085478165
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3d5d8f28a34c764b655964facc6d320
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7df314db2676ef0279eaafe333d9291c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49719ed0c0198db4db46c602432b5b41, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Kits/IData/Editor/Resources/Kit_terno_M_IData.asset
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/t_d_terno_masculino
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/mat_terno_m_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/mat_corpo_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/terno_calca

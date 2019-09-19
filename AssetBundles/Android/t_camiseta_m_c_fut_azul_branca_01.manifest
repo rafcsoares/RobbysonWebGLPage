@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 510482370
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84cb5da3365f27190e432de4e51fb202
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Camisetas/Fbx/Textures/T_Camiseta_M_C_Fut_Azul_branca_01.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 387849737
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 484edf97f8196927334d3022ed91f4d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcas/Fbx/Textures/T_N_Bermuda_F_lag.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4275855876
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fed811e93365ac0fb0b92d4a37afa063
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 43a4b7bca5993049df5a20320e1ab708
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Placas/CustomAnimators/Animations/Placa_DeUmaDica_OutEnd.anim
+Dependencies: []

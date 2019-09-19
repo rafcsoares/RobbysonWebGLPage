@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2002007358
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 841aa56fe3796a67cf5b72b275141015
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Chapeus/Fbx/Materials/Mat_Chapeu_Pascoa.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/t_n_chapeu_pascoa_01

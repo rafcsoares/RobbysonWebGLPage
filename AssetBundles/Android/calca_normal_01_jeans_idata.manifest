@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3092455646
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4908aa3e51f2202d17b5a3554d09b6d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7df314db2676ef0279eaafe333d9291c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49719ed0c0198db4db46c602432b5b41, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcas/IData/Editor/Resources/Calca_Normal_01_Jeans_IData.asset
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/t_d_calca_01_djeans_azul
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/mat_calca_normal
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/m_calca_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/f_calca_normal

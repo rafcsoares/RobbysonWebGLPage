@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1574325568
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b1dfe1aca298be541ee8de9794e53fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Vestidos/Fbx/Textures/T_D_Vestido_gravida_01_09.png
+Dependencies: []

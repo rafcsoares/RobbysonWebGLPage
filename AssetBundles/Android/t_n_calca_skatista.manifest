@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 600750099
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c7bff023cb6efad7449805e92e7e725
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcas/Fbx/Textures/T_N_Calca_Skatista.png
+Dependencies: []

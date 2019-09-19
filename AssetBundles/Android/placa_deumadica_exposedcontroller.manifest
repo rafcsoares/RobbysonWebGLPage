@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3379059621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8d7d66c6d09e23e0213cfee39ab75b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2be511454da723278c5db128acf0357a
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8aef3d5a73bf6e14eaa53fa18202ca8d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Placas/CustomAnimators/Placa_DeUmaDica_ExposedController.asset
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/placa_deumadica_instart
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/placa_deumadica_outend
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/placa_deumadica_mainiddle
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/placa_deumadica_in
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/placa_deumadica_out
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/placa_deumadica_iddle
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/placa_deumadica_controller

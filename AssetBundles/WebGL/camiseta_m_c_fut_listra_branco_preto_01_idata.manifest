@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1184607490
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cdfef487537bdc53f83cfdaaa1c69e58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03c31b2ce74a090f11703cbe27900fea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49719ed0c0198db4db46c602432b5b41, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Items/Camisetas/IData/Editor/Resources/Camiseta_M_C_Fut_Listra_Branco_Preto_01_IData.asset
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/mat_corpo_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/corpo
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/mat_camisa_curta
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_camiseta_m_c_fut_listra_branco_preto_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/f_camiseta_m_c

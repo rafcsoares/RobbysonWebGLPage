@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 876707751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92382c39ef01f4634f2417d3d1d41b34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Chapeus/Fbx/Textures/T_Bone_02_Robbyson_02.png
+Dependencies: []

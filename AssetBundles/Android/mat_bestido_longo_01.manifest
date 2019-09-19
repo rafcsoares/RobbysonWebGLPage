@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4239361144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd29d4518168495cf9f76ac2791117ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Vestidos/Fbx/Materials/Mat_Bestido_Longo_01.mat
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/t_n_vestido_longo01

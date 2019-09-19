@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3966313939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8065fee2cca171cd436914fa124037e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcas/Fbx/Textures/T_N_Calca_01.png
+Dependencies: []

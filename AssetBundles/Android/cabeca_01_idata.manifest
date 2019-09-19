@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 49931055
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11721141e7f959ed1a6be4da7339b4d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 467c5539700688cbf6ae56265fefe0c7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49719ed0c0198db4db46c602432b5b41, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Corpo/IData/Editor/Resources/Cabeca_01_IData.asset
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/mat_dentes_fundo_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/mat_corpo_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/dentes2

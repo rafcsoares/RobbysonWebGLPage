@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2593909663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39545851355ae4bd09001ad0eab3f0de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6cce62a4d4d67c4e2ef1c17bcee1d794
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Cabelos/Fbx/Cabelo_M_07.fbx
+Dependencies: []

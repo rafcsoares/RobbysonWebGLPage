@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1893427524
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80890e5412fe427f6fa1129712e43482
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d2c9658a5678091f729d884b79e87579
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Kits/CustomAnimators/Kit_Carnaval_Controller.overrideController
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/idle
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/out
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/in
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/hatswap
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/legsswap
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/hairswap
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/torsoswap
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/glassswap
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/glovesswap
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/footswap
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/eyebrowswap
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/in_left
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/out_left
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/idle_deumadica
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/deumadica_out
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/deumadica_in
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/idle_recomendacao_01
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/happy01
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/happy02
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/happy03
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/sad01
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/sad02
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/sad03
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/normal01
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/normal02
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/normal03
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/idle_olhasonotificando_01
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/idle_olhasoorientando_01
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/idle_olasoparabenizando_01
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/human_controller
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/idlecarnaval

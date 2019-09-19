@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1663226850
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52f5b742cf6a2214e94036f806129315
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b723b0c19d956a9fb2fa4327dd34c4f6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Acessorios/Fbx/Cinto_02.fbx
+Dependencies: []

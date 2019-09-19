@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 446558600
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c6f8bfb426f04ff99ded0235b8b9301
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Vestidos/Fbx/Textures/T_D_Vestido_F_junino_01_03.png
+Dependencies: []

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4242134209
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44de9455933ab631b0c31273586f6de0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f0533c0bf4c2a19090a91a8d68ea91ac
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: edf8b8d3cbe8e50409cd18625ec3648f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/BGs/BGData/Editor/Resources/BG_01_BGData.asset
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/bg_01

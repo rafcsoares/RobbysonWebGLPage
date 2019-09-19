@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1687192161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bf82eb15e5bfbabce53ac584bff9b20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7e9ee104d6bb707fb2602b751e6f78b1
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Kits/Particles/Shaders/Resources/Particle
+  Alpha Blend.shader
+Dependencies: []

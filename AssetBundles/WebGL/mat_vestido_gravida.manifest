@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 365381743
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b4bc0ed1de0e158aa015e054fd19948
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Items/Vestidos/Fbx/Materials/Mat_Vestido_Gravida.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_n_vestido_gravida_01

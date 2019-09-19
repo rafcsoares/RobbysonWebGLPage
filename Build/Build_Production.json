@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "AeC_Robbyson_WebGL",
+"dataUrl": "Build_Production.data.unityweb",
+"wasmCodeUrl": "Build_Production.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build_Production.wasm.framework.unityweb",
+"asmCodeUrl": "Build_Production.asm.code.unityweb",
+"asmMemoryUrl": "Build_Production.asm.memory.unityweb",
+"asmFrameworkUrl": "Build_Production.asm.framework.unityweb",
+"TOTAL_MEMORY": 100663296,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}

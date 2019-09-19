@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1978584625
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 831006abbf2eccdeb8f762f361e8c065
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b723b0c19d956a9fb2fa4327dd34c4f6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcas/Fbx/Calca_M_Skatista_01.fbx
+Dependencies: []

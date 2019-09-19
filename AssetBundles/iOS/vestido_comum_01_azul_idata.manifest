@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 643681722
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f234cb2c504d7e6df825e0695a31c214
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7df314db2676ef0279eaafe333d9291c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49719ed0c0198db4db46c602432b5b41, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Vestidos/IData/Editor/Resources/Vestido_Comum_01_Azul_IData.asset
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/t_d_vestido_comum01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/mat_vestido_comum_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/mat_corpo_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/corpo

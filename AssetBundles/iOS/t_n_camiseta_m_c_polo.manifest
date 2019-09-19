@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3338154986
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e348fe0a9245209a899e1aa1e8fd478b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Camisetas/Fbx/Textures/T_N_Camiseta_M_C_polo.png
+Dependencies: []

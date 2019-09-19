@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2585389426
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a65c5398ffb121acd7b9f146c6beffa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcas/Fbx/Textures/T_D_Bermuda_F_Short_saia_azul.png
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3978941469
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a002769acffcd7b1de2a8c30e917129
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6cce62a4d4d67c4e2ef1c17bcee1d794
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Items/Chapeus/Fbx/Bone_02_Feminino.fbx
+- Assets/Robbyson/AssetFiles/Items/Chapeus/Fbx/Touca_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Chapeus/Fbx/Bone_01.fbx
+- Assets/Robbyson/AssetFiles/Items/Chapeus/Fbx/Bone_02_Masculino.fbx
+Dependencies: []

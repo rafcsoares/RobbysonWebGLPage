@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2848908157
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4587c2dd694ad79515219f1939e298f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Kits/Fbx/Textures/T_D_Kit_carnaval_2017_Mestre_Sala.png
+Dependencies: []

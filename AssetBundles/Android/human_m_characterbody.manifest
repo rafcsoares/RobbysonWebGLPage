@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2650997494
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3032ce3f4d0eaa476588ddb44fba9054
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 750e137a8db0958c27b23abb3e76fb61
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e59384e3a96023546ad9b5b5ef0ed4dc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04a946045d5f56b46bc5f702f7e887cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 671ed5599f0891c4f8d339c0134ac31b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8aef3d5a73bf6e14eaa53fa18202ca8d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Bodies/Prefabs/Human_M_CharacterBody.prefab
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/mat_dentes_frente_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/esqueletoavatar
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/human_controller
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/human_exposedcontroller

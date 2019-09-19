@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3742475305
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 997eaeb552d8a7440d1dd73ab50b5c6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03c31b2ce74a090f11703cbe27900fea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49719ed0c0198db4db46c602432b5b41, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/IData/Editor/Resources/Cabelo_M_08_IData.asset
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/mat_cabelo_m
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/mesh_cabelos_08

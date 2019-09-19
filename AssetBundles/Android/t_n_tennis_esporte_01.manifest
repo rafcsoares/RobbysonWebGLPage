@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1475475815
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d706e8490da46bff04b0ab0de008ca9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcados/Fbx/Textures/T_N_Tennis_esporte_01.png
+Dependencies: []

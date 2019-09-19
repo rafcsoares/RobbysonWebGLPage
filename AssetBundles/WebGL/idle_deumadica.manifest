@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1071260396
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cfecc9a4ae721b7ee64b64874ccf3bbc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5f15d19de9123028808577dcd63ae0df
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_DeUmaDica_IDLE_01.fbx
+Dependencies: []

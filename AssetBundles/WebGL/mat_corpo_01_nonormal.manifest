@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3258832735
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f942d26b637457a30cd9fb7e07018564
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51a16e16d5113854a16091e54ae5bb0d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Items/Corpo/Fbx/Materials/Mat_Corpo_01_NoNormal.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_n_avatar_corpo_fl

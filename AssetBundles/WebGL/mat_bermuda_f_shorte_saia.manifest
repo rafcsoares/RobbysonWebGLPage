@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2846074754
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b77055ed75e3db2984f5d17d2e91fd1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Items/Calcas/Fbx/Materials/Mat_Bermuda_F_shorte_saia.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_n_bermuda_f_short_saia
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_d_bermuda_f_short_saia_azul

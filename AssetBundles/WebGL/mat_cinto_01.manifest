@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 674931251
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9471207bcdfb91bcca02cef8f83695d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Items/Acessorios/Fbx/Materials/Mat_Cinto_01.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_n_cinto_01
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_d_cinto_01

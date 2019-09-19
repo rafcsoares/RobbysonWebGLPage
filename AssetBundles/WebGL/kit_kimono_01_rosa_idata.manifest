@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2717266749
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 999ea43fb431f33c2aa22033831fc672
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b55e6d9e31cdd3f27d843449dce04da0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49719ed0c0198db4db46c602432b5b41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8aef3d5a73bf6e14eaa53fa18202ca8d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Kits/IData/Editor/Resources/Kit_Kimono_01_Rosa_IData.asset
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/mat_corpo_01
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/corpo
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/mat_kimono
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/kit_kimono_exposedcontroller
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_d_kit_kimono_rosa_01

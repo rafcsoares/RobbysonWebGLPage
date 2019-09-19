@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1499205840
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a959a9698586cd8c6f777842d28b7b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Camisetas/Fbx/Materials/Mat_Camisa_Curta_Polo.mat
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/t_n_camiseta_m_c_polo

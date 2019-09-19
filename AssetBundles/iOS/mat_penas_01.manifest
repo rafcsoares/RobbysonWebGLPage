@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1349777622
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d831c05336a7652eae2fee050684ba0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51a16e16d5113854a16091e54ae5bb0d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Kits/Fbx/Materials/Mat_Penas_01.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/custom/transparent/backfaceon

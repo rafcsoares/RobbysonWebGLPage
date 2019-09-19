@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 1412367000
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4344708734e4d47bc024e4a5e5584944
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ef22208254847b5596ee3a78b77ee2ab
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8aef3d5a73bf6e14eaa53fa18202ca8d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Kits/CustomAnimators/Kit_Carnaval_ExposedController.asset
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/kit_carnaval_controller
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/torsoswap
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/happy01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/eyebrowswap
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/glassswap
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/idlecarnaval
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/footswap
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/out
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/sad01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/sad02
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/happy02
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/idle_olhasoorientando_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/out_left
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/normal02
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/in_left
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/idle
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/idle_deumadica
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/deumadica_out
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/hatswap
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/idle_olhasonotificando_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/glovesswap
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/normal03
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/legsswap
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/idle_recomendacao_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/hairswap
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/normal01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/deumadica_in
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/happy03
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/in
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/idle_olasoparabenizando_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/sad03

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2989250465
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26275fbe7a47ea30b6489a1d0ef0cc9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_Polo_Lilas_branco.png
+Dependencies: []

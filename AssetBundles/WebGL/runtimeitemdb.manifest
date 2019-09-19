@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1052374230
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5080202420f79fc09f87c79e65b42766
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 48c213d7a2bd939d5c904f1ef2d478c8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e18d0e4848acf8f4390e2d7cb4933bc9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Editor/Resources/RuntimeItemDB.asset
+Dependencies: []

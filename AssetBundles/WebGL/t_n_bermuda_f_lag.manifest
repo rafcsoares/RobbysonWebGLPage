@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2786570113
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37825905e9a3f711cfaeb96453c18df9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_N_Bermuda_F_lag.png
+Dependencies: []

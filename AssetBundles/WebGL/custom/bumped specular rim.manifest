@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3487002583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9498d83d8e3036660f82f1255a28938c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7e9ee104d6bb707fb2602b751e6f78b1
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Shaders/Resources/BumpedSpecularRim.shader
+Dependencies: []

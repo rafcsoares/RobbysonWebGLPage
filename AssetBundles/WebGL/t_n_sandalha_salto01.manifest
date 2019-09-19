@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3212451949
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bde91f3dd621a9ee945c8a6e8bfbfde7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Textures/T_N_Sandalha_salto01.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1540232184
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b31f35dbe1daa2f748ec42dfd6296e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c598e6037c61a98d7716541777e5179f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Kits/Particles/Prefabs/Confete_FX_particle.prefab
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/whitecircle_material

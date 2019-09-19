@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 296180380
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee2e3d43dfb136c92fa06d7581d78256
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7df314db2676ef0279eaafe333d9291c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49719ed0c0198db4db46c602432b5b41, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Chapeus/IData/Editor/Resources/Bone_02_Robbyson01_IData.asset
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/t_bone_02_robbyson_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/mat_bone_02
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/mat_cabelo_f
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/mat_cabelo_m
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/bone_f_02
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/cabelo

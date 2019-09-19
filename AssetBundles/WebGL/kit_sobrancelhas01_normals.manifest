@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2385920324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f5eac72a07f124dd7411f36809deb53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Textures/Kit_Sobrancelhas01_normals.tga
+Dependencies: []

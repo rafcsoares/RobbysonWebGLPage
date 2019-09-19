@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 2343052868
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 451c90fa869f1da0fae63e776e9711ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ef22208254847b5596ee3a78b77ee2ab
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8aef3d5a73bf6e14eaa53fa18202ca8d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Vestidos/CustomAnimators/Kit_Junino_ExposedController.asset
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/kit_junino_controller
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/torsoswap
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/happy01
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/eyebrowswap
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/glassswap
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/footswap
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/out
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/sad01
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/sad02
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/happy02
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/idle_olhasoorientando_01
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/out_left
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/idlejunino
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/normal02
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/in_left
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/idle
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/idle_deumadica
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/deumadica_out
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/hatswap
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/idle_olhasonotificando_01
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/glovesswap
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/normal03
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/legsswap
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/idle_recomendacao_01
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/hairswap
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/normal01
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/deumadica_in
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/happy03
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/in
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/idle_olasoparabenizando_01
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/sad03

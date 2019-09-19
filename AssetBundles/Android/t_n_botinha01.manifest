@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3851084957
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f5a90b521913acc86ad3b01fdf95a05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcados/Fbx/Textures/T_N_Botinha01.png
+Dependencies: []

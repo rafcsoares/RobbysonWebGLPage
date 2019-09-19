@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 879359710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac7937f51d81751b8bb220b97fe47662
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Camisetas/Fbx/Materials/Mat_Camisa_Longa_Polo.mat
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/t_n_camiseta_m_l_polo

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3602483781
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 461133b4653238c345ae34163fc1abcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46daa0ab816e68f527f38fb18aec3007
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Placas/CustomAnimators/Placa_DeUmaDica_Controller.controller
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/placa_deumadica_mainiddle
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/placa_deumadica_iddle
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/placa_deumadica_instart
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/placa_deumadica_out
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/placa_deumadica_in
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/placa_deumadica_outend
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/deumadica_in

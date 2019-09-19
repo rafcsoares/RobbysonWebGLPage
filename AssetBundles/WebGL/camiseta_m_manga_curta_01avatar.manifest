@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1993650429
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8be34a42e93629873685878aa747c1c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b723b0c19d956a9fb2fa4327dd34c4f6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Camiseta_M_Manga_Curta_01.fbx
+Dependencies: []

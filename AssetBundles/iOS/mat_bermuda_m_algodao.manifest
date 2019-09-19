@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3001922087
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3686feeb1045e42ffe72fb9c6eb719e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcas/Fbx/Materials/Mat_Bermuda_M_algodao.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/t_d_bermuda_m_algodao_bege
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/t_n_bermuda_m_algodao

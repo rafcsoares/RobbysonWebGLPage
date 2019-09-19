@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4168811723
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8e82a9370682044f19bd56c32c114fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51a16e16d5113854a16091e54ae5bb0d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Materials/Mat_Penas_01.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/custom/transparent/backfaceon

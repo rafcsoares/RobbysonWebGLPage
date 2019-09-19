@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3696711889
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 837f94c15ce63cbd41d9f8a90d135d64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Kits/Fbx/Textures/T_N_Kit_carnaval_2017_Porta_bandeira.png
+Dependencies: []

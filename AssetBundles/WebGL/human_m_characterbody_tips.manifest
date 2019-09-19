@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3331861736
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1af6e751b7d2db9457fa544518ea4c2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d9a1aa138b88ae58fd009bf191ad17c5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e59384e3a96023546ad9b5b5ef0ed4dc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04a946045d5f56b46bc5f702f7e887cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 671ed5599f0891c4f8d339c0134ac31b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8aef3d5a73bf6e14eaa53fa18202ca8d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Bodies/Prefabs/Human_M_CharacterBody_Tips.prefab
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/human_controller
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/mat_dentes_frente_01
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/human_exposedcontroller
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/esqueletoavatar

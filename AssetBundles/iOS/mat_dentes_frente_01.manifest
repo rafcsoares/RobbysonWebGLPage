@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2160714449
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d00dee180cfb18fd372ceb58062cceac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51a16e16d5113854a16091e54ae5bb0d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Corpo/Fbx/Materials/Mat_Dentes_Frente_01.mat
+Dependencies: []

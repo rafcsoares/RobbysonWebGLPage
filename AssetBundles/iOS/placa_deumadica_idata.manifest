@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 700136368
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abc239ebd8a58a3c16006e9b1cd4ffff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 941174c1cf20e95f8c0d1788d8fa839a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49719ed0c0198db4db46c602432b5b41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8aef3d5a73bf6e14eaa53fa18202ca8d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Placas/IData/Editor/Resources/Placa_DeUmaDica_IData.asset
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/deumadica
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/placa_deumadica_withcollider
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/mat_deumadica_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/placa_deumadica_exposedcontroller

@@ -1,0 +1,506 @@
+ManifestFileVersion: 0
+CRC: 3348777821
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abba49ab56268f2c8f76344c1960b204
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ec991f80e541dd41d7f05b289184e756
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e4aa0c80130a3634e909ec72b4ba0f56, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e59384e3a96023546ad9b5b5ef0ed4dc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04a946045d5f56b46bc5f702f7e887cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 451449d43db1aff49ae2947e38646d57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 671ed5599f0891c4f8d339c0134ac31b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8aef3d5a73bf6e14eaa53fa18202ca8d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Materials/Mat_Calca_Skatista.mat
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Camiseta_F_Manga_Curta_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Vestido_Tomara_que_caia_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Kit_Junino_camiseta_01_02.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Bermuda_F_Shorte_saia.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Textures/T_N_Chapeu_Pascoa_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Bone_02_Feminino.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Placas/CustomAnimators/Animations/Animacao_Placa_DeUmaDica_OUT_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Textures/T_D_Chapeu_palha_pink_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Materials/Mat_Calca_Slim.mat
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Sobrancelha_06.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Blender/Short_01.dae
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Sobrancelha_02.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_F_junino_01_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_F_02.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_N_Calca_Comum.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_D_Kit_Junino_calca_01_02.png
+- Assets/Robbyson/AssetFiles/3DModels/Oculos/Fbx/Materials/Mat_Oculos_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Materials/Mat_Tennis_esporte_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Kit_natal_feminino_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_entrada_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_D_Bermuda_M_jeans_azul.png
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Brinco_09.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_Top_Lider_amarela.png
+- Assets/Robbyson/AssetFiles/3DModels/Placas/CustomAnimators/Placa_DeUmaDica_Controller.controller
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Brinco_14.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_M_08.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Textures/T_D_Cinto_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_Carnaval_2017_azul.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Calca_F_Comum_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_Regata_Laranja_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_ToPraBaixo_02.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_metas_novaUV_02.png
+- Assets/Robbyson/AssetFiles/3DModels/Barbas/Fbx/Barba_02.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_N_Camiseta_Regata_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_N_Bermuda_M_algodao.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Bermuda_M_esporte.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Sobrancelha_05.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_M_04.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Materials/Mat_Relogio.mat
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Chapeu_palha_Masculino.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_DeUmaDica_OUT_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/CustomAnimators/Animations/Animacao_Idle_Gravida_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Fbx/Materials/Mat_Corpo_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Materials/Mat_Bermuda_M_Jeans.mat
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_N_Calca_Skatista.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Camiseta_M_Regata_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Calca_F_Lag_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Materials/Mat_Vestido_Gravida.mat
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_N_Kit_Junino_calca_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Kit_Junino_camiseta_01_05.png
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_F_junino_01_02.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_Entrada_Esquerda_para_direita_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_D_Bermuda_F_esporte_preto_rosa.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Materials/Mat_Kimono.mat
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_idle_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_F_10.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_polo_Panseguros.png
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Materials/Mat_Vestido_Tomara_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Oculos/Fbx/Shaders/Resources/Glass.shader
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_N_Vestido_F_junino_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Brinco_13.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Fbx/Materials/Mat_Dentes_Fundo_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_N_Camiseta_M_C.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_N_Short_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Textures/T_N_Sapato_social_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_N_Calca_Slim.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Bermuda_F_jeans.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_polo_Top_Lider_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Materials/Mat_Cabelo_M.mat
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_gravida_01_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Shaders/Resources/Transparent_BackFaceOn.shader
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_portugal_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_F_05.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_i_love_rock_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Barbas/Fbx/Barba_05.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Materials/Mat_Bermuda_M_algodao.mat
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_Polo_preto_laranja.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_espanha_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Sobrancelha_13.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Materials/Mat_Camisa_Longa.mat
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_Tomara_que_caia01.png
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_F_junino_01_04.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Fbx/Esqueleto.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Sapato_salto_02.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Textures/T_N_Tennis_esporte_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/CustomAnimators/Vestido_Gravida_01_ExposedController.asset
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_troca_Item_acessorio_cabelo_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Calca_M_Skatista_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Luva_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Kit_Carnaval_2017_Porta_bandeira_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Textures/T_D_Kit_kimono_preto_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Oculos/Fbx/Oculos_03.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Brinco_06.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Kit_Junino_camiseta_01_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Textures/T_N_Sapato_F_Salto_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Kit_Carnaval_F_2017.prefab
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_Comum01.png
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Chapeu_Pascoa_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Brinco_07.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Particles/Materials/WhiteCircle_Material.mat
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_Regata_Azul_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_N_Camiseta_M_L_polo.png
+- Assets/Robbyson/AssetFiles/Bodies/Prefabs/Human_M_CharacterBody_Tips.prefab
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_troca_Item_acessorio_camiseta_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Brinco_04.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Textures/T_N_Relogio_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Materials/Mat_Tennis_allstar_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Sobrancelha_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Textures/T_D_Sapato_F_Salto_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_Interacao_Recomendacao_Idle_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Tenis_Allstar_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_N_Calca_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Vestido_gravida_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Materials/Mat_Bermuda_F_jeans.mat
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Sobrancelha_10.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Materials/Mat_Bermuda_M_esporte.mat
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_D_Bermuda_M_algodao_bege.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_D_Kit_Junino_calca_01_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Sobrancelha_16.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_Carnaval_2017_branca.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_franca_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Calca_M_Lag_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_troca_Item_acessorio_oculos_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_F_junino_01_05.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_N_Bermuda_M_jeans.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Textures/T_D_Tennis_allstar_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_F_08.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Barbas/Fbx/Barba_12.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/CustomAnimators/Kit_Junino_ExposedController.asset
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Brinco_10.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Luva_02.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Textures/T_D_Sandalha_salto01.png
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Textures/T_D_Relogio_01_Verde.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_Top_Lider_turquesa.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_Camiseta_M_C_Azul_Vermelho_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Textures/T_D_Tennis_esporte_01_Copa.png
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Chapeu_palha_Feminino.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_F_03.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_N_Bermuda_M_esporte.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_Interacao_Olha_So_Parabenizando_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Sobrancelha_03.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Kit_Junino_camiseta_01_04.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Textures/T_D_Sapato_salto02.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Textures/T_N_Sapato_salto_02.png
+- Assets/Robbyson/AssetFiles/3DModels/Barbas/Fbx/Barba_03.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Textures/T_D_Kit_carnaval_2017_Porta_bandeira.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_saida_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_Camiseta_M_C_Fut_Azul_branca_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_ToPraBaixo_03.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Textures/T_N_Kit_carnaval_2017_Porta_bandeira.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_ToDeBoa_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Sandalha_salto_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Kits/CustomAnimators/Kit_Kimono_ExposedController.asset
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Textures/T_D_Relogio_01_Azul.png
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_gravida_01_06.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_Regata_Amarela_skate_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_longo01.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Textures/T_D_Terno_Masculino.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Sapato_salto_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Placas/CustomAnimators/Animations/Animacao_Placa_DeUmaDica_IDLE_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_troca_Item_acessorio_cabeca_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Cinto_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Textures/T_D_Relogio_01_Pink.png
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_gravida_01_04.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Textures/T_N_Sandalha_salto01.png
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Brinco_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Barbas/Fbx/Barba_09.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_Regata_Dunuts_01.png
+- Assets/Robbyson/AssetFiles/Bodies/CustomAnimators/Human_Controller.controller
+- Assets/Robbyson/AssetFiles/3DModels/Placas/CustomAnimators/Placa_DeUmaDica_ExposedController.asset
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_Polo_Rosa_verde.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Materials/Mat_Bermuda_F_shorte_saia.mat
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Camiseta_F_Manga_Longa_Polo_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_N_Bermuda_F_jeans.png
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/CustomAnimators/Vestido_Gravida_01_Controller.overrideController
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Textures/T_D_Kit_kimono_branco_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_D_Bermuda_F_lag_rosa.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_N_Bermuda_F_Short_saia.png
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Textures/T_N_Cabelos.tga
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_Polo_Lilas_branco.png
+- Assets/Robbyson/AssetFiles/Bodies/Prefabs/Human_F_CharacterBody_Tips.prefab
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Textures/T_D_Kit_carnaval_2017_Mestre_Sala.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Camiseta_M_Manga_Curta_Polo_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_M_02.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Barbas/Fbx/Barba_08.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Kit_Junino_camiseta_01_03.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_L_amarela_dog_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_gravida_01_08.png
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/CustomAnimators/Animations/Animacao_Kit_Festa_junina.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Brinco_02.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_DeUmaDica_IDLE_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Materials/Mat_Diversos_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Materials/Mat_Bermuda_F_Esporte.mat
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Textures/T_D_Kit_kimono_azul_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Textures/T_N_KitPapaiNoel.tga
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_troca_Item_acessorio_sapatos_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Textures/N_Bone_02.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Fbx/Materials/Mat_Dentes_Frente_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_Regata_Rosa_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_M_06.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Textures/T_D_Chapeu_Pascoa_02.png
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Sobrancelha_11.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Oculos/Fbx/Materials/Mat_Vidros_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_Interacao_Olha_So_Orientando_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_polo.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_Regata_Lilas_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_gravida_01_02.png
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_F_06.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Botinha_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Barbas/Fbx/Barba_06.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Oculos/Fbx/Oculos_05.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Vestido_Comum_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Materials/Mat_Carnaval_F_2017.mat
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Materials/Mat_Calca_Junina.mat
+- Assets/Robbyson/AssetFiles/3DModels/Barbas/Fbx/Barba_11.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_i_love_you_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_N_Camiseta_M_C_polo.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Materials/Mat_Noel_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_N_Bermuda_F_esporte_low.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_troca_Item_acessorio_calca_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_N_Vestido_gravida_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Capacete_02.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_ToDeBoa_03.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Camiseta_F_Manga_Longa_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Calca_M_Normal_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_i_love_MyMom_Preta_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_L_lilas_cat_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_suica_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Touca_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_TopD+_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_Camiseta_M_C_Fut_Vermelho_preto_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Materials/Mat_Bermuda_F_lag.mat
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Textures/T_Bone_02_Azul_Branco.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Textures/T_N_Terno_Masculino.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Textures/T_D_Kit_kimono_rosa_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Camiseta_F_Regata_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_gravida_01_09.png
+- Assets/Robbyson/AssetFiles/3DModels/Placas/Fbx/Materials/Mat_DeUmaDica_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Blender/Materials/Mat_Short_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Textures/N_Kit_Inicial_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_TopD+_03.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_eua_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_Camiseta_M_C_Fut_Listra_branco_preto_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Brinco_08.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_gravida_01_07.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Particles/Prefabs/Confete_FX_particle.prefab
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Materials/Mat_Chapeu_Palha.mat
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Calca_F_Normal_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Bermuda_F_esporte.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_i_love_reggae_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Textures/T_D_Chapeu_palha_red_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Textures/T_N_Kit_kimono.png
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_F_09.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Placas/Fbx/Placa_DeUmaDica_WithCollider.prefab
+- Assets/Robbyson/AssetFiles/3DModels/Barbas/Fbx/Materials/Mat_Barba_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_argentina_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Camiseta_M_Manga_Curta_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Textures/T_Bone_02_Robbyson_02.png
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Materials/Mat_Chapeu_Pascoa.mat
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_Regata_Vermelha_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Materials/Mat_Camisa_Curta_Polo.mat
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_N_Kit_Junino_camiseta_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Placas/CustomAnimators/Animations/Animacao_Placa_DeUmaDica_IN_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Kit_Carnaval_2017_Mestre_Sala_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Capacete_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Particles/Shaders/Resources/Particle Alpha
+  Blend.shader
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Fbx/Materials/Mat_Corpo_01_NoNormal.mat
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Sobrancelha_09.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_D_Calca_01_Djeans_Azul.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_troca_Item_acessorio_pulso_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_metas_novaUV_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_F_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Materials/Mat_Terno_M_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Particles/Textures/T_WhiteCircleSmall.png
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Relogio_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Bermuda_F_lag.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Materials/Mat_Vestido_Comum_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Oculos/Fbx/Oculos_06.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Bone_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_Saida_Direita_para_esquerda_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Materials/Mat_Cabelo_F.mat
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Materials/Mat_Bestido_Longo_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Chapeu_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Kit_natal_masculino_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Textures/Kit_Sobrancelhas01_normals.tga
+- Assets/Robbyson/AssetFiles/3DModels/Barbas/Fbx/Barba_07.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_M_09.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Bone_02_Masculino.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Textures/T_N_Tennis_allstar_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Bermuda_M_jeans.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Materials/Mat_Bermuda_M_surf.mat
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_ToPraBaixo_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Calca_F_Skatista_01.fbx
+- Assets/Robbyson/AssetFiles/Bodies/CustomAnimators/Human_ExposedController.asset
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Materials/Mat_Penas_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Materials/Mat_Sapato_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Sobrancelha_12.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Textures/T_D_KitPapaiNoel.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_D_Calca_01_Couro_Marron.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_Regata_Preta_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Materials/Mat_Sobrancelhas_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Kit_Kimono_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_N_Vestido_Comum01.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_troca_Item_acessorio_sobrancelhas_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_M_03.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Materials/Mat_Camisa_Longa_Polo.mat
+- Assets/Robbyson/AssetFiles/3DModels/Oculos/Fbx/Oculos_04.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Kit_Feminino_junino_vestido.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_i_love_MyMom_Branca_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_ToDeBoa_02.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Materials/Mat_Camisa_Regata.mat
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Calca_M_Comum_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Brinco_03.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Textures/T_D_Chapeu_palha_blue_01.png
+- Assets/Robbyson/AssetFiles/Bodies/Prefabs/Human_F_CharacterBody.prefab
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Textures/T_D_Feather_alpha.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Materials/Mat_Sapato_F_Salto_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Camiseta_F_Manga_Curta_Polo_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Materials/Mat_Sandalha_salto_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Placas/Fbx/Textures/DeUmaDica.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/CustomAnimators/Kit_Kimono_Controller.overrideController
+- Assets/Robbyson/AssetFiles/3DModels/Oculos/Fbx/Oculos_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_F_04.fbx
+- Assets/Robbyson/AssetFiles/Bodies/Prefabs/Human_M_CharacterBody.prefab
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_germany_novaUV_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Materials/Mat_Brincos_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Sobrancelha_14.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Kit_terno_feminino.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Materials/Mat_Camiseta_Botao.mat
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_gravida_01_05.png
+- Assets/Robbyson/AssetFiles/3DModels/Placas/Fbx/Placa_DeUmaDica.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_N_Bermuda_M_surf.png
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Textures/T_N_Cabelos_Fem_Kit01.tga
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Colar_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_F_junino_01_09.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Textures/T_D_Sapato_social_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_F_07.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Vestido_Longo_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Materials/Mat_Bone_02.mat
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Materials/Mat_Vestido_Junino.mat
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_F_junino_01_08.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Camiseta_M_Manga_Longa_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Sobrancelha_04.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Camiseta_M_Botao_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Textures/T_D_Botinha01.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_D_Kit_Junino_calca_01_03.png
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Brinco_05.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Barbas/Fbx/Barba_13.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_F_junino_01_07.png
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Sobrancelha_15.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Kits/CustomAnimators/Animations/Animacao_Kit_Carnaval_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Barbas/Fbx/Textures/T_N_PelosFaciais_01.tga
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_england_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_i_love_samba_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_D_Bermuda_F_jeans_azul.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Bermuda_M_algodao.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_Interacao_Olha_So_Notificando_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Textures/T_D_Terno_feminino.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Textures/T_N_Kit_carnaval_2017_Mestre_Sala.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Kit_terno_masculino.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Brinco_11.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Oculos/Fbx/Oculos_02.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_D_Kit_Junino_calca_01_05.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Textures/T_N_Terno_feminino.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/CustomAnimators/Kit_Carnaval_Controller.overrideController
+- Assets/Robbyson/AssetFiles/3DModels/Kits/CustomAnimators/Animations/Animacao_Kit_Kimono_idle_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Fbx/Textures/T_N_Avatar_corpo_Fl.png
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Textures/T_N_Chapeu_palha_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Materials/Mat_botinha01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_D_Bermuda_F_Short_saia_azul.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_Camiseta_M_C_Fut_Listra_verde_preta_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_F_junino_01_03.png
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Chapeu_02.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/CustomAnimators/Kit_Junino_Controller.overrideController
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Materials/Mat_Calca_Comum.mat
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Caneca_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Camiseta_M_Manga_Longa_Polo_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Textures/T_D_Relogio_01_laranja.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Textures/T_N_Botinha01.png
+- Assets/Robbyson/AssetFiles/3DModels/Barbas/Fbx/Barba_04.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Textures/T_Bone_02_Robbyson_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Fbx/Cabeca_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_mexico_novaUV_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_Italia_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_L_azul_borboleta_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Materials/Mat_Terno_F_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_D_Kit_Junino_calca_01_04.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_C_Polo_Branco_vermelho.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Bermuda_M_surf.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_N_Camiseta_M_L.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_DeUmaDica_IN_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Cinto_02.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Sobrancelha_08.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Placas/CustomAnimators/Animations/Placa_DeUmaDica_OutEnd.anim
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Pulseira_rock_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Textures/D_Kit_Inicial_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Animations/Animacao_TopD+_02.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Calca_M_Junina_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_D_Bermuda_M_surf_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Textures/T_N_Cinto_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_Regata_Vermelha_Tenis_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Placas/CustomAnimators/Animations/Placa_DeUmaDica_MainIddle.anim
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Materials/Mat_Camisa_Curta.mat
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Brinco_12.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_N_Vestido_longo01.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Materials/Mat_Calca_Normal.mat
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_D_Bermuda_M_esporte_preto_vermelho.png
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_gravida_01_03.png
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Sapato_social_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Materials/Mat_Sapato_salto02.mat
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_F_junino_01_06.png
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_M_07.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Chapeus/Fbx/Textures/T_D_Chapeu_Pascoa_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/CustomAnimators/Kit_Carnaval_ExposedController.asset
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_D_Vestido_gravida_01_10.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Materials/Mat_Carnaval_M_2017.mat
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_N_Bermuda_F_lag.png
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_M_L_verde_flor_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Barbas/Fbx/Barba_10.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Tenis_Esporte_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Vestidos/Fbx/Textures/T_N_Vestido_Tomara_que_caia01.png
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Materials/Mat_Cinto_01.mat
+- Assets/Robbyson/AssetFiles/3DModels/Corpo/Fbx/Olhos_01.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Cabelos/Fbx/Cabelo_M_05.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Placas/CustomAnimators/Animations/Placa_DeUmaDica_InStart.anim
+- Assets/Robbyson/AssetFiles/3DModels/Camisetas/Fbx/Textures/T_D_Camiseta_brasil_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Sobrancelhas/Fbx/Sobrancelha_07.fbx
+- Assets/Robbyson/AssetFiles/3DModels/Calcados/Fbx/Textures/T_D_Tennis_esporte_01.png
+- Assets/Robbyson/AssetFiles/3DModels/Acessorios/Fbx/Textures/T_D_Relogio_01_Vermelho.png
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Fbx/Kit_Carnaval_M_2017.prefab
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/sharedbundle_cabelo_dread_idata

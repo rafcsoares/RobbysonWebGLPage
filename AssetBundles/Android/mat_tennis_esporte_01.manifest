@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3607557017
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f1ec7d47c9260f42db44465a856deff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcados/Fbx/Materials/Mat_Tennis_esporte_01.mat
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/t_n_tennis_esporte_01

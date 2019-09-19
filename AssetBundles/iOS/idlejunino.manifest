@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1239766891
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 809cbd95ce62e7a5e2cd8de04bb3d2ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5f15d19de9123028808577dcd63ae0df
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Vestidos/CustomAnimators/Animations/Animacao_Kit_Festa_junina.fbx
+Dependencies: []

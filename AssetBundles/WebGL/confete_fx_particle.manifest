@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1125237577
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 414094445e62d9b4473e3abaa5362d31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c598e6037c61a98d7716541777e5179f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Kits/Particles/Prefabs/Confete_FX_particle.prefab
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/whitecircle_material

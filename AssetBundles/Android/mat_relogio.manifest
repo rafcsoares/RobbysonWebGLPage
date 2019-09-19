@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1859401871
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e11b13d06257610baab1216df8e50283
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Acessorios/Fbx/Materials/Mat_Relogio.mat
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/t_n_relogio_01

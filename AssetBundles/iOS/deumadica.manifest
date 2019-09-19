@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3489970773
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ce603870218ebf34414d460e2f5194a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Placas/Fbx/Textures/DeUmaDica.png
+Dependencies: []

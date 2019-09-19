@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3623184232
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 169fdee6302a1d8d952698dda19f36f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 35e203ab0bffd955411faf39774978c0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49719ed0c0198db4db46c602432b5b41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8aef3d5a73bf6e14eaa53fa18202ca8d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcas/IData/Editor/Resources/Calca_Junina_04_IData.asset
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/t_d_kit_junino_calca_01_04
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/mat_calca_junina
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/calca
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/kit_junino_exposedcontroller

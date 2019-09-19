@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 280263515
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7fd4bfca5ffbfc93487f80923dd9c786
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Sobrancelhas/Fbx/Materials/Mat_Sobrancelhas_01.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/kit_sobrancelhas01_normals

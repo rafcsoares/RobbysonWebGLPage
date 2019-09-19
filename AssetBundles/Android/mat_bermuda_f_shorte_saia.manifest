@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 638430169
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dee6fc74d589cce96d5cc4855dc17737
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcas/Fbx/Materials/Mat_Bermuda_F_shorte_saia.mat
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/t_d_bermuda_f_short_saia_azul
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/t_n_bermuda_f_short_saia

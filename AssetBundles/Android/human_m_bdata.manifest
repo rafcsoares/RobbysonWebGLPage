@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3897266326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10d2c990d71eff4595e43f5d3ad33fc5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 338cb255aca70834e5c453669ab68a81
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6b872b02e3a96442ab2878bab4452d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 671ed5599f0891c4f8d339c0134ac31b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Bodies/BDatas/Editor/Resources/Human_M_BData.asset
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/human_m_characterbody

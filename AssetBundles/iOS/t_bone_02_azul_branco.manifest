@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1291617198
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3dc79900aba99268b1ed93f5747c9e82
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Chapeus/Fbx/Textures/T_Bone_02_Azul_Branco.png
+Dependencies: []

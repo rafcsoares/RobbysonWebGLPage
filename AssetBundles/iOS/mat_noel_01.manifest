@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2366484153
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5058157099a6eac8bb1877a14071aee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Kits/Fbx/Materials/Mat_Noel_01.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/t_d_kitpapainoel
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/t_n_kitpapainoel

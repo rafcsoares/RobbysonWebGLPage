@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 280598180
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b223e0a612b8861f1ef5688dd497028d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03c31b2ce74a090f11703cbe27900fea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49719ed0c0198db4db46c602432b5b41, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Items/Chapeus/IData/Editor/Resources/Chapeu_Junino_01_Azul_IData.asset
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/mat_cabelo_f
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/mat_cabelo_m
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/mat_chapeu_palha
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_d_chapeu_palha_blue_01
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/chapeu_palha_masculino
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/chapeu_palha_feminino

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2501773798
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 864a6eb73ea3202044cba6db577d7a2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/BGs/BGImgs/BG_Praia_01.jpg
+Dependencies: []

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 39458696
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf6ed618658a671bf4d1d7f000d8502a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Items/Calcados/Fbx/Materials/Mat_Sapato_F_Salto_01.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_n_sapato_f_salto_01

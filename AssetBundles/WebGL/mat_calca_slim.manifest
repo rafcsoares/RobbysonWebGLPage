@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 468910218
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ce2e32f5ec1618247e01d892176bd79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Items/Calcas/Fbx/Materials/Mat_Calca_Slim.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_n_calca_slim

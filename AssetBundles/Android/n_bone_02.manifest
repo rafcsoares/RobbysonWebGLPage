@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1600347894
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5354797ce9780c30b98db5053621f585
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Chapeus/Fbx/Textures/N_Bone_02.png
+Dependencies: []

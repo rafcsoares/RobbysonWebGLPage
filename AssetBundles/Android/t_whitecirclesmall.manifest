@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1748411230
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0347908e14700765d038030287275998
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Kits/Particles/Textures/T_WhiteCircleSmall.png
+Dependencies: []

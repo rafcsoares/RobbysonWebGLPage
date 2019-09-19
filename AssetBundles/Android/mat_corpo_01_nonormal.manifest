@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2711555482
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb10898e023fdc5c3f1aa2e2a982d0cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51a16e16d5113854a16091e54ae5bb0d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Corpo/Fbx/Materials/Mat_Corpo_01_NoNormal.mat
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/t_n_avatar_corpo_fl

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3766436469
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f181f1c0a9a4e10d4e4d7e1499d22eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Vestidos/Fbx/Textures/T_N_Vestido_longo01.png
+Dependencies: []

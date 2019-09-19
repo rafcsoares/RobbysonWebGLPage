@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3977775204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee57b9da20869693d238c2ca3c486f6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Vestidos/Fbx/Materials/Mat_Vestido_Junino.mat
+Dependencies:
+- D:/GitProjects/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/Android/t_n_vestido_f_junino_01

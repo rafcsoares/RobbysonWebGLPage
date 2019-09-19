@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 796671878
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6dd3d6da28d87d4f29dd6586bdc8429
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/Fbx/Textures/T_N_Bermuda_F_jeans.png
+Dependencies: []

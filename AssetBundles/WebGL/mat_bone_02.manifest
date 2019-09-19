@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3024937747
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 252c7dca1e10acc844d4bfed291b62de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Items/Chapeus/Fbx/Materials/Mat_Bone_02.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/n_bone_02

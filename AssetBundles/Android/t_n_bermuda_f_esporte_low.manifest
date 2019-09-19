@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 65976376
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0427cbb7b5c8a033567964b0db80a60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcas/Fbx/Textures/T_N_Bermuda_F_esporte_low.png
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 974629093
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1e7a4a4cd0bf5443d2ff29de1d3e612
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Calcas/Fbx/Textures/T_D_Bermuda_F_jeans_azul.png
+Dependencies: []

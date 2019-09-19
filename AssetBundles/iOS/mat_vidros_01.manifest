@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1560766049
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b48b0dcb6bead93ce53c496b31fa1de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51a16e16d5113854a16091e54ae5bb0d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Oculos/Fbx/Materials/Mat_Vidros_01.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Mobile/AssetBundles/iOS/custom/transparent/diffuse

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4141199497
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17d54c24b39f941cede7c3f8751ae6b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Acessorios/Fbx/Textures/T_N_Relogio_01.png
+Dependencies: []

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 915164180
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1368f5deaca91e03076e13fb324e0bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5f15d19de9123028808577dcd63ae0df
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Placas/CustomAnimators/Animations/Animacao_Placa_DeUmaDica_IDLE_01.fbx
+Dependencies: []

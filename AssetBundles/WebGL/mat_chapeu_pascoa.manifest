@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 521010735
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14f63ea41fdf8f649c2a58faef885d48
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/Items/Chapeus/Fbx/Materials/Mat_Chapeu_Pascoa.mat
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/t_n_chapeu_pascoa_01

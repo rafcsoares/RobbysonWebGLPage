@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2235645285
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e8bb7c67f13ede9d2ff60cbd0270f7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Camisetas/Fbx/Textures/T_D_Camiseta_Regata_Laranja_01.png
+Dependencies: []

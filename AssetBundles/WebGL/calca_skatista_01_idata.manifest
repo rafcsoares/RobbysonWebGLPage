@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 957427554
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ccb9ee82fd50935b5446fa18528a642
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03c31b2ce74a090f11703cbe27900fea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49719ed0c0198db4db46c602432b5b41, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Robbyson/AssetFiles/3DModels/Calcas/IData/Editor/Resources/Calca_Skatista_01_IData.asset
+Dependencies:
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/mat_calca_skatista
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/m_calca_skatista
+- D:/UnityProjects/AeC/Robbyson_Dev_WebGL/AssetBundles/WebGL/f_calca_skatista
