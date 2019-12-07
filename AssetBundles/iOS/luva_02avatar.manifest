@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1346610760
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ef3e05bb21a90d3d4195bdfb20050c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b723b0c19d956a9fb2fa4327dd34c4f6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Acessorios/Fbx/Luva_02.fbx
+Dependencies: []

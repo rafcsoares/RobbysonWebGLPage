@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3098918759
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67b23789617ff076b28c796c9a355aac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6cce62a4d4d67c4e2ef1c17bcee1d794
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AeC/_Packages/Robbyson.ShopAvatar/AssetFiles/Items/Oculos/Fbx/Oculos_02.fbx
+Dependencies: []
